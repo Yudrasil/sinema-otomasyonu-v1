@@ -1,0 +1,27 @@
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Debug\Sinema Otomasyonu Şeysi.exe.config
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Debug\Sinema Otomasyonu Şeysi.exe
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Debug\Sinema Otomasyonu Şeysi.pdb
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Bilet.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.baslangic.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Film.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Panel.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Properties.Resources.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Seans.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.csproj.GenerateResource.Cache
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.exe
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.pdb
+C:\Users\Cengu\Documents\Visual Studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.csprojResolveAssemblyReference.cache
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Debug\Sinema Otomasyonu Şeysi.exe.config
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Debug\Sinema Otomasyonu Şeysi.exe
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Debug\Sinema Otomasyonu Şeysi.pdb
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.csproj.AssemblyReference.cache
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Bilet.resources
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.baslangic.resources
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Film.resources
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Panel.resources
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Properties.Resources.resources
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema_Otomasyonu_Şeysi.Seans.resources
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.csproj.GenerateResource.cache
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.csproj.CoreCompileInputs.cache
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.exe
+E:\YEDEK\BEN\vs 2012 projeler\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Debug\Sinema Otomasyonu Şeysi.pdb

@@ -1,0 +1,12 @@
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Release\Sinema Otomasyonu Şeysi.exe.config
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Release\Sinema Otomasyonu Şeysi.exe
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\bin\Release\Sinema Otomasyonu Şeysi.pdb
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema_Otomasyonu_Şeysi.Bilet.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema_Otomasyonu_Şeysi.baslangic.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema_Otomasyonu_Şeysi.Film.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema_Otomasyonu_Şeysi.Panel.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema_Otomasyonu_Şeysi.Properties.Resources.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema_Otomasyonu_Şeysi.Seans.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema Otomasyonu Şeysi.csproj.GenerateResource.Cache
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema Otomasyonu Şeysi.exe
+C:\Users\Cengu\documents\visual studio 2012\Projects\Sinema Otomasyonu Şeysi\Sinema Otomasyonu Şeysi\obj\Release\Sinema Otomasyonu Şeysi.pdb
